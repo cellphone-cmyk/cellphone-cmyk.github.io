@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-07T15:36:33.309Z</updated>
+  <updated>2020-03-07T17:54:01.438Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2020/03/08/%E6%B8%B8%E6%88%8F%E5%BF%83%E7%90%86%E5%AD%A6/"/>
-    <id>http://yoursite.com/2020/03/08/游戏心理学/</id>
-    <published>2020-03-07T17:49:13.542Z</published>
-    <updated>2020-03-07T15:36:33.309Z</updated>
+    <title>游戏心理学</title>
+    <link href="http://yoursite.com/2020/03/07/%E6%B8%B8%E6%88%8F%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+    <id>http://yoursite.com/2020/03/07/游戏心理学/</id>
+    <published>2020-03-06T18:43:44.000Z</published>
+    <updated>2020-03-07T17:54:01.438Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="游戏心理学"><a href="#游戏心理学" class="headerlink" title="游戏心理学"></a>游戏心理学</h1><h3 id="WTCAF理论"><a href="#WTCAF理论" class="headerlink" title="WTCAF理论"></a>WTCAF理论</h3><p>玩家游玩循环  </p><h4 id="观察（watch）-gt-思考-think-gt-选择-choose-gt-行动-action-gt-回馈-feedbacks"><a href="#观察（watch）-gt-思考-think-gt-选择-choose-gt-行动-action-gt-回馈-feedbacks" class="headerlink" title="观察（watch）-&gt;思考(think)-&gt;选择(choose)-&gt;行动(action)-&gt;回馈(feedbacks)"></a>观察（watch）-&gt;思考(think)-&gt;选择(choose)-&gt;行动(action)-&gt;回馈(feedbacks)</h4><h3 id="心流"><a href="#心流" class="headerlink" title="心流"></a>心流</h3><p>指人的精神完全投入到某件事情上的感觉（忘记时间）<br><img src="C64BAE60A6734526B89D992123DFEB80" alt="flow"></p><h3 id="乐趣空间范围"><a href="#乐趣空间范围" class="headerlink" title="乐趣空间范围"></a>乐趣空间范围</h3><p>一个游戏想要让普罗大众接受，它需要不断地调整思考难度和操作难度，dota -&gt; moba就是这样一个原理<br><img src="2A2907DF8938435B80345D9A8097276D" alt="interesting_place"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="WTCAF理论"><a href="#WTCAF理论" class="headerlink" title="WTCAF理论"></a>WTCAF理论</h3><p>玩家游玩循环  </p><h4 id="观察（watch）-gt-思考-think-gt-选择-choose-gt-行动-action-gt-回馈-feedbacks"><a href="#观察（watch）-gt-思考-think-gt-选择-choose-gt-行动-action-gt-回馈-feedbacks" class="headerlink" title="观察（watch）-&gt;思考(think)-&gt;选择(choose)-&gt;行动(action)-&gt;回馈(feedbacks)"></a>观察（watch）-&gt;思考(think)-&gt;选择(choose)-&gt;行动(action)-&gt;回馈(feedbacks)</h4><h3 id="心流"><a href="#心流" class="headerlink" title="心流"></a>心流</h3><p>指人的精神完全投入到某件事情上的感觉（忘记时间）<br><img src="images%5Cflow.png" alt="flow"></p><h3 id="乐趣空间范围"><a href="#乐趣空间范围" class="headerlink" title="乐趣空间范围"></a>乐趣空间范围</h3><p>一个游戏想要让普罗大众接受，它需要不断地调整思考难度和操作难度，dota -&gt; moba就是这样一个原理<br><img src="images%5Cinteresting_place.png" alt="interesting_place"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;游戏心理学&quot;&gt;&lt;a href=&quot;#游戏心理学&quot; class=&quot;headerlink&quot; title=&quot;游戏心理学&quot;&gt;&lt;/a&gt;游戏心理学&lt;/h1&gt;&lt;h3 id=&quot;WTCAF理论&quot;&gt;&lt;a href=&quot;#WTCAF理论&quot; class=&quot;headerlink&quot; title=
+        &lt;h3 id=&quot;WTCAF理论&quot;&gt;&lt;a href=&quot;#WTCAF理论&quot; class=&quot;headerlink&quot; title=&quot;WTCAF理论&quot;&gt;&lt;/a&gt;WTCAF理论&lt;/h3&gt;&lt;p&gt;玩家游玩循环  &lt;/p&gt;
+&lt;h4 id=&quot;观察（watch）-gt-思考-think-gt-选择-c
       
     
     </summary>
     
+      <category term="game design" scheme="http://yoursite.com/categories/game-design/"/>
+    
+    
+      <category term="玩法设计" scheme="http://yoursite.com/tags/%E7%8E%A9%E6%B3%95%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
